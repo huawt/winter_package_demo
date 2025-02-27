@@ -1,7 +1,7 @@
 name: winter_package_demo
-description: "A new Flutter project."
+description: "a good tools, page right index bar for contact list or other list"
 version: 0.0.1
-homepage: https://www.github.com
+homepage: https://github.com/huawt/winter_package_demo
 
 environment:
   sdk: ^3.7.0
